@@ -1,0 +1,906 @@
+movie,title,genres,year,Rating,RottenTomato
+3133,Go West,Comedy|Western,1924,10,54
+8423,"Kid Brother, The",Children|Comedy|Romance,1927,10,100
+25763,"Pandora's Box (Büchse der Pandora, Die)",Drama,1929,10,56
+2215,Rich and Strange,Comedy|Romance,1930,10,62
+1256,Duck Soup,Comedy|Musical|War,1933,10,89
+8256,Queen Christina,Drama|Romance,1933,10,81
+25801,She Done Him Wrong,Comedy|Romance,1932,10,82
+25805,"Atalante, L'",Comedy|Drama|Romance,1933,10,73
+8167,Captain Blood,Action|Adventure|Romance,1935,10,61
+3462,Modern Times,Comedy|Drama|Romance,1936,10,84
+25842,Topper,Comedy|Fantasy|Romance,1936,10,63
+25850,Holiday,Comedy|Drama|Romance,1938,10,71
+917,"Little Princess, The",Children|Drama,1938,10,52
+919,"Wizard of Oz, The",Adventure|Children|Fantasy|Musical,1938,10,92
+954,Mr. Smith Goes to Washington,Drama,1938,10,100
+7831,Another Thin Man,Comedy|Crime|Drama|Mystery|Romance,1938,10,55
+25856,Wuthering Heights,Drama|Romance,1938,10,67
+596,Pinocchio,Animation|Children|Fantasy|Musical,1940,10,54
+973,Meet John Doe,Comedy|Drama,1941,10,92
+2205,Mr. & Mrs. Smith,Comedy|Romance,1941,10,79
+2936,Sullivan's Travels,Adventure|Comedy|Romance,1941,10,81
+7216,High Sierra,Crime|Drama|Film-Noir|Thriller,1941,10,51
+25868,Ball of Fire,Comedy|Romance,1941,10,54
+946,To Be or Not to Be,Comedy|Drama|War,1941,10,72
+1936,Mrs. Miniver,Drama|War,1941,10,90
+2018,Bambi,Animation|Children|Drama,1942,10,78
+2204,Saboteur,Mystery|Thriller,1942,10,96
+4920,"Now, Voyager",Drama|Romance,1942,10,55
+71525,A-Haunting We Will Go,Comedy,1941,10,72
+25891,Heaven Can Wait,Comedy|Fantasy|Romance,1943,10,93
+2647,House of Frankenstein,Horror,1944,10,73
+3643,"Fighting Seabees, The",Action|Drama|War,1944,10,83
+2612,Mildred Pierce,Drama|Film-Noir,1945,10,52
+8584,Leave Her to Heaven,Drama|Film-Noir,1944,10,95
+47714,Blithe Spirit,Comedy|Drama|Fantasy|Romance,1945,10,80
+3792,Duel in the Sun,Drama|Romance|Western,1946,10,88
+8208,"Razor's Edge, The",Drama,1946,10,64
+33760,Anna and the King of Siam,Drama|Romance,1946,10,81
+1940,Gentleman's Agreement,Drama,1947,10,67
+6467,Quai des Orfèvres (Jenny Lamour),Crime|Drama,1946,10,78
+25930,Odd Man Out,Crime|Drama|Film-Noir|Thriller,1947,10,59
+41585,Kiss of Death,Crime|Drama|Film-Noir,1947,10,100
+5434,"Sorry, Wrong Number",Drama|Film-Noir|Thriller,1947,10,56
+1212,"Third Man, The",Film-Noir|Mystery|Thriller,1949,10,52
+8491,White Heat,Crime|Drama|Film-Noir,1948,10,95
+8752,"Set-Up, The",Drama|Film-Noir|Romance,1949,10,64
+3780,Rocketship X-M,Sci-Fi,1949,10,77
+44073,Stromboli,Drama,1950,10,67
+3475,"Place in the Sun, A",Drama|Romance,1951,10,98
+2848,"Othello (Tragedy of Othello: The Moor of Venice, The)",Drama,1952,10,100
+3314,"Big Trees, The",Action|Drama,1951,10,85
+3417,"Crimson Pirate, The",Adventure|Comedy,1952,10,91
+7705,Pat and Mike,Comedy|Romance,1951,10,52
+56015,Kansas City Confidential,Crime|Drama|Film-Noir|Mystery,1952,10,69
+3404,Titanic,Action|Drama,1953,10,99
+3930,"Creature from the Black Lagoon, The",Adventure|Horror|Sci-Fi,1954,10,73
+4420,"Barefoot Contessa, The",Drama,1953,10,93
+6426,"Far Country, The",Western,1954,10,89
+8410,Suddenly,Crime|Drama|Film-Noir,1953,10,62
+8920,"Country Girl, The",Drama,1954,10,77
+4324,"Kentuckian, The",Drama|Western,1954,10,51
+6981,"Ordet (Word, The)",Drama,1955,10,92
+8447,This Island Earth,Sci-Fi,1954,10,52
+8451,Blackboard Jungle,Drama,1955,10,66
+47721,"Red Balloon, The (Ballon rouge, Le)",Children|Fantasy,1955,10,62
+62049,1984,Drama|Sci-Fi,1956,10,73
+937,Love in the Afternoon,Comedy|Romance,1957,10,62
+1250,"Bridge on the River Kwai, The",Adventure|Drama|War,1957,10,52
+3640,"King in New York, A",Comedy|Drama,1956,10,66
+5147,Wild Strawberries (Smultronstället),Drama,1956,10,97
+8657,"Tin Star, The",Western,1957,10,51
+854,"Ballad of Narayama, The (Narayama Bushiko)",Drama,1958,10,78
+4798,Indiscreet,Comedy|Romance,1958,10,70
+910,Some Like It Hot,Comedy|Crime,1959,10,93
+2043,Darby O'Gill and the Little People,Adventure|Children|Fantasy,1958,10,55
+2731,"400 Blows, The (Les quatre cents coups)",Crime|Drama,1958,10,52
+3933,"Killer Shrews, The",Horror|Sci-Fi,1959,10,91
+5383,"Hound of the Baskervilles, The",Crime|Horror|Mystery,1958,10,100
+7088,Black Orpheus (Orfeu Negro),Drama|Romance,1959,10,71
+1017,Swiss Family Robinson,Adventure|Children,1960,10,51
+1219,Psycho,Crime|Horror,1959,10,85
+5799,Exodus,Drama|Romance|War,1960,10,83
+2015,"Absent-Minded Professor, The",Children|Comedy|Fantasy,1961,10,96
+2782,Pit and the Pendulum,Horror,1960,10,58
+3468,"Hustler, The",Drama,1961,10,94
+6579,"One, Two, Three",Comedy,1961,10,94
+60990,"End of Summer, The (Early Autumn) (Kohayagawa-ke no aki)",Drama,1961,10,55
+1204,Lawrence of Arabia,Adventure|Drama|War,1961,10,72
+2056,In Search of the Castaways,Adventure|Children,1962,10,61
+2905,Sanjuro (Tsubaki Sanjûrô),Action|Adventure|Drama,1962,10,64
+2949,Dr. No,Action|Adventure|Thriller,1962,10,52
+5398,Requiem for a Heavyweight,Drama,1961,10,94
+26093,"Wonderful World of the Brothers Grimm, The",Adventure|Animation|Children|Comedy|Drama|Fantasy|Musical|Romance,1962,10,80
+2550,"Haunting, The",Horror|Thriller,1962,10,74
+2554,Children of the Damned,Horror|Sci-Fi|Thriller,1963,10,59
+2780,"Raven, The",Comedy|Horror,1963,10,67
+3467,Hud,Drama|Western,1962,10,74
+4187,Lilies of the Field,Drama,1962,10,85
+4799,"It's a Mad, Mad, Mad, Mad World",Action|Adventure|Comedy|Crime,1962,10,74
+8903,"Terror, The",Horror|Mystery,1963,10,52
+199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",Drama|Musical|Romance,1963,10,71
+914,My Fair Lady,Comedy|Drama|Musical|Romance,1963,10,90
+5899,Zulu,Action|Drama|War,1963,10,67
+7085,Send Me No Flowers,Comedy|Romance,1964,10,100
+26111,Becket,Drama,1964,10,94
+42783,Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv),Drama|Romance,1963,10,97
+83829,Scorpio Rising,(no genres listed),1964,10,89
+1035,"Sound of Music, The",Musical|Romance,1965,10,89
+3681,For a Few Dollars More (Per qualche dollaro in più),Action|Drama|Thriller|Western,1965,10,63
+6422,Shenandoah,Drama|War|Western,1965,10,75
+6305,Fahrenheit 451,Drama|Sci-Fi,1966,10,82
+8525,"Ugly Dachshund, The",Children|Comedy,1965,10,65
+1084,Bonnie and Clyde,Crime|Drama,1966,10,73
+5796,Casino Royale,Action|Adventure|Comedy,1966,10,88
+7946,Reflections in a Golden Eye,Drama,1966,10,87
+26171,Play Time (a.k.a. Playtime),Comedy,1967,10,85
+110752,Mondo Hollywood,Documentary,1966,10,66
+2160,Rosemary's Baby,Drama|Horror|Thriller,1967,10,53
+2300,"Producers, The",Comedy,1968,10,77
+26164,Fando and Lis (Fando y Lis),Adventure|Fantasy,1967,10,68
+5000,Medium Cool,Drama|Romance,1969,10,63
+6245,Sweet Charity,Comedy|Drama|Musical|Romance,1968,10,96
+7110,Blind Beast (Môjuu),Drama|Thriller,1968,10,90
+8725,"Goodbye, Columbus",Comedy|Drama|Romance,1969,10,92
+59834,100 Rifles,Adventure|War|Western,1969,10,66
+2925,"Conformist, The (Conformista, Il)",Drama,1969,10,62
+3066,Tora! Tora! Tora!,Action|Drama|War,1970,10,78
+3622,"Twelve Chairs, The",Comedy,1970,10,76
+4349,Catch-22,Comedy|War,1970,10,91
+4972,"Owl and the Pussycat, The",Comedy,1969,10,81
+6428,Two Mules for Sister Sara,Comedy|War|Western,1970,10,95
+26231,Performance,Crime|Drama|Thriller,1969,10,57
+26258,"Topo, El",Fantasy|Western,1970,10,81
+52528,Tristana,Drama,1970,10,64
+4195,"Abominable Dr. Phibes, The",Horror|Mystery,1970,10,56
+4803,Play Misty for Me,Drama|Thriller,1971,10,96
+7894,"Duck, You Sucker",Action|Western,1971,10,84
+152844,Demons,Horror,1970,10,94
+2871,Deliverance,Adventure|Drama|Thriller,1971,10,64
+3490,Horror Express,Horror,1972,10,52
+7008,Last Tango in Paris (Ultimo tango a Parigi),Drama|Romance,1972,10,58
+7084,"Play It Again, Sam",Comedy|Romance,1971,10,91
+62801,Lone Wolf and Cub: Baby Cart to Hades (Kozure Ôkami: Shinikazeni mukau ubaguruma),Action|Drama,1972,10,55
+2921,High Plains Drifter,Western,1972,10,67
+3733,"Paper Chase, The",Drama,1972,10,97
+4754,"Wicker Man, The",Drama|Horror|Mystery|Thriller,1972,10,63
+6724,Paper Moon,Comedy|Crime|Drama,1973,10,57
+7396,Scenes From a Marriage (Scener ur ett äktenskap),Drama,1973,10,73
+7889,Pat Garrett and Billy the Kid,Western,1973,10,90
+26294,My Name Is Nobody (Il Mio nome è Nessuno),Comedy|Western,1973,10,83
+26320,Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein),Drama|Horror|Sci-Fi,1972,10,85
+32632,Electra Glide in Blue,Action|Crime,1972,10,85
+6408,Animals are Beautiful People,Comedy|Documentary,1974,10,86
+7817,Zardoz,Fantasy|Sci-Fi,1973,10,80
+1136,Monty Python and the Holy Grail,Adventure|Comedy|Fantasy,1974,10,75
+3362,Dog Day Afternoon,Crime|Drama,1975,10,63
+92756,Hearts of the West,Comedy|Western,1975,10,53
+2238,Seven Beauties (Pasqualino Settebellezze),Comedy|Drama,1975,10,87
+3371,Bound for Glory,Drama,1975,10,84
+6410,Car Wash,Comedy,1975,10,61
+47152,Cria Cuervos,Drama,1976,10,80
+1998,Exorcist II: The Heretic,Horror,1976,10,95
+2051,Herbie Goes to Monte Carlo,Adventure|Children|Comedy,1977,10,82
+2523,Rollercoaster,Drama|Thriller,1977,10,54
+4437,Suspiria,Horror,1977,10,76
+4810,I Never Promised You a Rose Garden,Drama,1976,10,88
+7492,Martin,Drama|Horror,1976,10,53
+8261,3 Women (Three Women),Drama,1977,10,67
+71180,Padre padrone,Drama,1976,10,82
+1388,Jaws 2,Horror|Thriller,1978,10,94
+2091,Return from Witch Mountain,Children|Sci-Fi,1978,10,91
+2138,Watership Down,Adventure|Animation|Children|Drama|Fantasy,1978,10,53
+3304,Blue Collar,Crime|Drama,1978,10,85
+26404,In Praise of Older Women,Drama,1978,10,63
+2034,"Black Hole, The",Children|Sci-Fi,1979,10,83
+3506,North Dallas Forty,Comedy|Drama,1979,10,95
+3638,Moonraker,Action|Adventure|Sci-Fi|Thriller,1978,10,63
+6735,"Rose, The",Drama,1979,10,60
+7698,"China Syndrome, The",Drama|Thriller,1978,10,57
+55757,Chilly Scenes of Winter (Head Over Heels),Comedy|Drama|Romance,1979,10,83
+1196,Star Wars: Episode V - The Empire Strikes Back,Action|Adventure|Sci-Fi,1980,10,63
+3091,Kagemusha,Drama|War,1979,10,83
+4291,Nine to Five (a.k.a. 9 to 5),Comedy|Crime,1980,10,86
+4826,"Big Red One, The",Action|Adventure|Drama|War,1980,10,85
+4833,"Changeling, The",Horror|Mystery|Thriller,1979,10,82
+5186,Honeysuckle Rose (a.k.a. On the Road Again),Drama|Romance,1980,10,96
+5250,Stir Crazy,Comedy,1980,10,54
+610,Heavy Metal,Action|Adventure|Animation|Horror|Sci-Fi,1980,10,63
+3731,Cutter's Way,Drama|Thriller,1981,10,97
+3734,Prince of the City,Drama,1981,10,69
+3971,"Private Eyes, The",Comedy|Mystery,1981,10,82
+4417,"House by the Cemetery, The (Quella villa accanto al cimitero)",Horror,1981,10,100
+5710,Banana Joe,Comedy,1980,10,92
+5768,Modern Problems,Comedy|Fantasy,1981,10,99
+5779,Piranha II: The Spawning,Horror|Sci-Fi,1980,10,73
+2105,Tron,Action|Adventure|Sci-Fi,1982,10,92
+2919,"Year of Living Dangerously, The",Drama|Romance|War,1982,10,62
+5933,Cannery Row,Drama,1981,10,80
+6140,Tenebre,Horror|Mystery|Thriller,1982,10,81
+32840,Vincent,Animation,1981,10,59
+81660,1990: The Bronx Warriors (1990: I guerrieri del Bronx),Action|Sci-Fi,1982,10,69
+102252,Legendary Weapons of China,Action|Adventure,1981,10,96
+1238,Local Hero,Comedy,1983,10,91
+2111,"Man with Two Brains, The",Comedy,1983,10,84
+2121,Cujo,Horror|Thriller,1983,10,60
+2804,"Christmas Story, A",Children|Comedy,1983,10,87
+2942,Flashdance,Drama|Romance,1982,10,84
+3550,The Hunger,Horror,1982,10,90
+5012,Yentl,Drama|Musical|Romance,1982,10,64
+6638,Valley Girl,Comedy|Romance,1982,10,66
+26467,"Day After, The",Drama|Sci-Fi,1982,10,89
+26492,Twilight Zone: The Movie,Fantasy|Horror|Sci-Fi|Thriller,1982,10,61
+33021,Dark Habits (Entre tinieblas),Comedy|Drama,1983,10,73
+2003,Gremlins,Comedy|Horror,1984,10,52
+2397,Mass Appeal,Drama,1984,10,64
+2613,Night of the Comet,Comedy|Horror|Sci-Fi,1983,10,90
+3041,Meatballs Part II,Comedy,1984,10,71
+3098,"Natural, The",Drama,1984,10,93
+3398,"Muppets Take Manhattan, The",Children|Comedy|Musical,1983,10,58
+3441,Red Dawn,Action|Drama|War,1984,10,63
+3683,Blood Simple,Crime|Drama|Film-Noir,1983,10,55
+3766,Missing in Action,Action|War,1983,10,62
+5276,Crimes of Passion,Drama|Romance|Thriller,1983,10,52
+5344,Thief of Hearts,Drama|Thriller,1984,10,62
+6814,City Heat,Action|Comedy,1984,10,74
+7947,Under the Volcano,Drama,1983,10,51
+26509,Electric Dreams,Comedy|Drama|Romance|Sci-Fi,1983,10,82
+1674,Witness,Drama|Romance|Thriller,1985,10,83
+2371,Fletch,Comedy|Crime|Mystery,1985,10,94
+2401,Pale Rider,Western,1984,10,50
+4293,Summer Rental,Comedy,1985,10,99
+6731,Day of the Dead,Horror|Sci-Fi|Thriller,1985,10,66
+7083,Sweet Dreams,Drama,1985,10,52
+7307,Flesh & Blood,Action|Adventure|Drama|War,1984,10,60
+7340,Just One of the Guys,Comedy,1985,10,60
+7481,Enemy Mine,Adventure|Drama|Sci-Fi,1985,10,50
+7615,Desert Hearts,Drama,1985,10,75
+9004,D.A.R.Y.L.,Adventure|Children|Sci-Fi,1985,10,99
+26547,Police Story (Ging chaat goo si),Action|Comedy|Crime|Thriller,1984,10,78
+26562,White Nights,Drama,1984,10,81
+26581,Sherman's March,Documentary,1985,10,55
+58520,Mala Noche,Drama,1984,10,94
+97817,Pumping Iron II: The Women,Documentary,1984,10,60
+1349,Vampire in Venice (Nosferatu a Venezia) (Nosferatu in Venice),Horror,1985,10,87
+2345,Desert Bloom,Drama,1985,10,50
+2348,Sid and Nancy,Drama,1986,10,69
+2349,Mona Lisa,Comedy|Thriller,1986,10,67
+2375,"Money Pit, The",Comedy,1986,10,96
+2736,Brighton Beach Memoirs,Comedy,1986,10,66
+3763,F/X,Action|Crime|Thriller,1986,10,62
+4753,Vamp,Comedy|Horror,1985,10,82
+6201,Lady Jane,Drama|Romance,1985,10,51
+6308,Legal Eagles,Comedy|Crime|Romance,1986,10,72
+6644,"Green Ray, The (Rayon vert, Le)",Drama|Romance,1985,10,98
+1261,Evil Dead II (Dead by Dawn),Action|Comedy|Fantasy|Horror,1986,10,82
+1970,"Nightmare on Elm Street 3: Dream Warriors, A",Horror|Thriller,1986,10,50
+2752,Outrageous Fortune,Comedy|Mystery,1986,10,63
+2755,Light of Day,Drama,1986,10,51
+3329,The Year My Voice Broke,Drama|Romance,1987,10,74
+3388,Harry and the Hendersons,Children|Comedy,1987,10,91
+3394,Blind Date,Comedy|Romance,1987,10,83
+3505,No Way Out,Drama|Mystery|Thriller,1987,10,71
+3716,Fatal Beauty,Action|Comedy|Crime|Drama,1987,10,97
+4104,Ernest Goes to Camp,Comedy,1987,10,96
+4109,Flowers in the Attic,Drama|Thriller,1986,10,97
+4132,Mannequin,Comedy|Romance,1986,10,85
+4140,North Shore,Drama|Romance,1987,10,91
+4215,Revenge of the Nerds II: Nerds in Paradise,Comedy,1986,10,58
+4332,Suspect,Crime|Drama|Thriller,1986,10,59
+709,Oliver & Company,Adventure|Animation|Children|Comedy|Musical,1987,10,91
+1961,Rain Man,Drama,1987,10,68
+1971,"Nightmare on Elm Street 4: The Dream Master, A",Horror|Thriller,1988,10,58
+1985,Halloween 4: The Return of Michael Myers,Horror,1988,10,76
+2245,Working Girl,Comedy|Drama|Romance,1987,10,50
+2247,Married to the Mob,Comedy,1988,10,83
+2408,Cocoon: The Return,Comedy|Sci-Fi,1988,10,82
+2551,Dead Ringers,Drama|Horror|Thriller,1987,10,66
+2868,Fright Night Part II,Horror,1987,10,86
+3197,"Presidio, The",Action|Crime|Romance|Thriller,1987,10,58
+3211,"Cry in the Dark, A",Drama,1988,10,68
+3577,Two Moon Junction,Drama|Romance,1988,10,59
+3868,"Naked Gun: From the Files of Police Squad!, The",Action|Comedy|Crime|Romance,1987,10,66
+3918,Hellbound: Hellraiser II,Horror,1987,10,100
+4012,Punchline,Comedy|Drama,1987,10,66
+4479,Bird,Drama|Musical,1987,10,69
+4490,"Couch Trip, The",Comedy,1988,10,57
+4499,Dirty Rotten Scoundrels,Comedy,1987,10,70
+4500,Drowning by Numbers,Comedy|Drama,1988,10,64
+4516,Johnny Be Good,Comedy,1987,10,96
+4518,The Lair of the White Worm,Comedy|Horror,1987,10,94
+4537,Running on Empty,Drama,1988,10,97
+4560,Watchers,Horror|Sci-Fi,1987,10,78
+4563,Young Einstein,Comedy,1987,10,96
+4703,Chocolat,Drama,1987,10,99
+52831,Maniac Cop,Action|Crime|Horror|Thriller,1987,10,90
+1989,Prom Night III: The Last Kiss,Horror,1989,10,55
+2422,"Karate Kid, Part III, The",Action|Adventure|Children|Drama,1989,10,95
+4618,Leviathan,Horror|Sci-Fi|Thriller,1988,10,71
+4628,New York Stories,Comedy|Drama,1988,10,51
+4632,"Package, The",Action|Thriller,1988,10,78
+4663,She's Out of Control,Comedy,1988,10,93
+4666,Skin Deep,Comedy,1988,10,72
+4676,Troop Beverly Hills,Comedy,1989,10,87
+26649,Lonesome Dove,Adventure|Drama|Western,1989,10,73
+587,Ghost,Comedy|Drama|Fantasy|Romance|Thriller,1989,10,72
+2291,Edward Scissorhands,Drama|Fantasy|Romance,1989,10,100
+2699,Arachnophobia,Comedy|Horror,1989,10,50
+3031,Repossessed,Comedy,1990,10,82
+3219,Pacific Heights,Mystery|Thriller,1990,10,78
+3438,Teenage Mutant Ninja Turtles,Action|Children|Comedy|Fantasy|Sci-Fi,1990,10,62
+3765,"Hot Spot, The",Crime|Drama|Romance,1990,10,59
+3841,Air America,Action|Comedy,1989,10,81
+4216,Longtime Companion,Drama,1990,10,62
+6180,Q & A,Crime|Drama,1989,10,60
+6966,Darkman,Action|Crime|Fantasy|Sci-Fi|Thriller,1990,10,99
+7004,Kindergarten Cop,Action|Comedy|Crime|Thriller,1990,10,50
+7012,Mr. Destiny,Comedy|Fantasy,1990,10,97
+8493,Memphis Belle,Action|Drama|War,1989,10,68
+8689,"Shock to the System, A",Comedy|Crime|Thriller,1990,10,72
+26704,State of Grace,Crime|Drama|Thriller,1990,10,52
+31747,The Boyfriend School,Comedy|Romance,1989,10,54
+88024,To Sleep with Anger,Drama,1990,10,69
+1176,"Double Life of Veronique, The (Double Vie de Véronique, La)",Drama|Fantasy|Romance,1991,10,62
+1280,Raise the Red Lantern (Da hong deng long gao gao gua),Drama,1990,10,96
+2265,Nothing But Trouble,Adventure|Comedy,1990,10,84
+2267,Mortal Thoughts,Mystery|Thriller,1991,10,60
+5366,Whore,Drama,1991,10,67
+6780,"Brief History of Time, A",Documentary,1990,10,74
+6944,Father of the Bride,Comedy,1990,10,80
+6971,Europa (Zentropa),Drama|Thriller,1990,10,91
+121,"Boys of St. Vincent, The",Drama,1992,10,84
+122,Boomerang,Comedy|Romance,1991,10,92
+265,Like Water for Chocolate (Como agua para chocolate),Drama|Fantasy|Romance,1992,10,54
+526,"Savage Nights (Nuits fauves, Les)",Drama,1992,10,56
+1037,"Lawnmower Man, The",Action|Horror|Sci-Fi|Thriller,1992,10,100
+1339,Dracula (Bram Stoker's Dracula),Fantasy|Horror|Romance|Thriller,1991,10,91
+2817,Aces: Iron Eagle III,Action,1991,10,51
+3259,Far and Away,Adventure|Drama|Romance,1992,10,76
+3262,Twin Peaks: Fire Walk with Me,Crime|Drama|Mystery|Thriller,1992,10,95
+8132,Gladiator,Action|Drama,1991,10,52
+26788,"Story of Qiu Ju, The (Qiu Ju da guan si)",Comedy|Drama,1991,10,53
+26819,Fortress,Action|Sci-Fi,1992,10,94
+320,Suture,Film-Noir|Thriller,1993,10,79
+410,Addams Family Values,Children|Comedy|Fantasy,1993,10,73
+446,Farewell My Concubine (Ba wang bie ji),Drama|Romance,1993,10,97
+489,Made in America,Comedy,1993,10,69
+490,Malice,Thriller,1992,10,91
+508,Philadelphia,Drama,1993,10,88
+527,Schindler's List,Drama|War,1993,10,70
+1437,"Cement Garden, The",Drama,1992,10,73
+2071,And the Band Played On,Drama,1993,10,50
+6794,Beethoven's 2nd,Children|Comedy,1993,10,69
+7108,Crime Story (Zhong an zu),Action|Crime|Drama,1993,10,54
+7117,Leprechaun,Comedy|Horror,1992,10,95
+7782,Sniper,Action|Drama,1993,10,63
+32153,Once Upon a Forest,Adventure|Animation|Children|Fantasy,1993,10,71
+59447,Fiorile,Drama,1993,10,67
+98,Shopping,Action|Thriller,1994,10,88
+126,"NeverEnding Story III, The",Adventure|Children|Fantasy,1994,10,59
+268,Little Odessa,Crime|Drama,1993,10,87
+272,"Madness of King George, The",Comedy|Drama,1993,10,76
+305,Ready to Wear (Pret-A-Porter),Comedy,1994,10,81
+341,Double Happiness,Drama,1994,10,50
+342,Muriel's Wedding,Comedy,1993,10,98
+353,"Crow, The",Action|Crime|Fantasy|Thriller,1994,10,98
+354,Cobb,Drama,1993,10,50
+369,Mrs. Parker and the Vicious Circle,Drama,1994,10,56
+372,Reality Bites,Comedy|Drama|Romance,1994,10,69
+382,Wolf,Drama|Horror|Romance|Thriller,1994,10,88
+416,Bad Girls,Western,1994,10,69
+420,Beverly Hills Cop III,Action|Comedy|Crime|Thriller,1993,10,55
+470,House Party 3,Comedy,1993,10,73
+513,Radioland Murders,Comedy|Mystery|Romance,1994,10,82
+536,"Simple Twist of Fate, A",Drama,1994,10,85
+569,Little Big League,Comedy|Drama,1994,10,85
+1369,I Can't Sleep (J'ai pas sommeil),Drama|Thriller,1993,10,92
+5969,My Girl 2,Comedy|Drama|Romance,1994,10,92
+26870,Major League II,Comedy,1994,10,78
+68099,Apollo 13: To the Edge and Back,Documentary,1994,10,52
+95780,Dragon Ball Z: Bio-Broly (Doragon bôru Z 11: Sûpâ senshi gekiha! Katsu no wa ore da),Action|Adventure|Animation,1994,10,77
+99669,Aftermath,Horror,1994,10,82
+126106,Beastie Boys: Sabotage,(no genres listed),1993,10,61
+13,Balto,Adventure|Animation|Children,1995,10,67
+22,Copycat,Crime|Drama|Horror|Mystery|Thriller,1994,10,91
+23,Assassins,Action|Crime|Thriller,1995,10,77
+27,Now and Then,Children|Drama,1994,10,83
+35,Carrington,Drama|Romance,1994,10,65
+43,Restoration,Drama,1994,10,50
+48,Pocahontas,Animation|Children|Drama|Musical|Romance,1995,10,53
+49,When Night Is Falling,Drama|Romance,1994,10,72
+71,Fair Game,Action,1994,10,62
+80,"White Balloon, The (Badkonake sefid)",Children|Drama,1995,10,75
+116,Anne Frank Remembered,Documentary,1995,10,98
+132,Jade,Thriller,1994,10,70
+165,Die Hard: With a Vengeance,Action|Crime|Thriller,1994,10,100
+173,Judge Dredd,Action|Crime|Sci-Fi,1995,10,100
+185,"Net, The",Action|Crime|Thriller,1995,10,63
+187,Party Girl,Comedy,1994,10,71
+207,"Walk in the Clouds, A",Drama|Romance,1994,10,92
+216,Billy Madison,Comedy,1995,10,85
+217,"Babysitter, The",Drama|Thriller,1995,10,79
+274,Man of the House,Comedy,1994,10,95
+278,Miami Rhapsody,Comedy,1995,10,67
+279,My Family,Drama,1994,10,68
+325,National Lampoon's Senior Trip,Comedy,1995,10,90
+585,"Brady Bunch Movie, The",Comedy,1994,10,94
+617,"Flower of My Secret, The (La flor de mi secreto)",Comedy|Drama,1995,10,55
+741,Ghost in the Shell (Kôkaku kidôtai),Animation|Sci-Fi,1994,10,85
+754,Gold Diggers: The Secret of Bear Mountain,Adventure|Children,1995,10,95
+764,Heavy,Drama|Romance,1994,10,87
+767,"Grass Harp, The",Comedy|Drama,1994,10,99
+864,"Wife, The",Comedy|Drama,1995,10,73
+1428,Angel Baby,Drama,1995,10,69
+44421,"Personal Journey with Martin Scorsese Through American Movies, A",Documentary,1995,10,57
+51357,Citizen X,Crime|Drama|Thriller,1995,10,100
+86,White Squall,Action|Adventure|Drama,1995,10,79
+663,Kids in the Hall: Brain Candy,Comedy,1996,10,95
+671,Mystery Science Theater 3000: The Movie,Comedy|Sci-Fi,1996,10,95
+673,Space Jam,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,1996,10,59
+685,It's My Party,Drama,1995,10,85
+704,"Quest, The",Action|Adventure,1996,10,80
+720,Wallace & Gromit: The Best of Aardman Animation,Adventure|Animation|Comedy,1995,10,100
+743,Spy Hard,Comedy,1995,10,91
+765,Jack,Comedy|Drama,1996,10,70
+766,I Shot Andy Warhol,Drama,1995,10,84
+781,Stealing Beauty,Drama,1995,10,65
+800,Lone Star,Drama|Mystery|Western,1996,10,91
+809,Fled,Action|Adventure,1996,10,72
+813,Larger Than Life,Comedy,1996,10,56
+832,Ransom,Crime|Thriller,1996,10,58
+996,Last Man Standing,Action|Crime|Drama|Thriller,1995,10,61
+1034,Freeway,Comedy|Crime|Drama|Thriller,1996,10,51
+1105,Children of the Corn IV: The Gathering,Horror,1996,10,57
+1317,I'm Not Rappaport,Comedy,1995,10,86
+1351,Blood and Wine (Blood & Wine),Crime|Drama|Thriller,1996,10,93
+1354,Breaking the Waves,Drama|Mystery,1996,10,70
+1357,Shine,Drama|Romance,1995,10,66
+1417,"Portrait of a Lady, The",Drama,1995,10,86
+1449,Waiting for Guffman,Comedy,1995,10,78
+1455,Hotel de Love,Comedy|Romance,1996,10,62
+1537,Shall We Dance? (Shall We Dansu?),Comedy|Drama|Romance,1995,10,85
+3282,Different for Girls,Comedy,1996,10,72
+136445,George Carlin: Back in Town,Comedy,1995,10,85
+141886,The Dress,Comedy|Drama,1996,10,98
+981,Dangerous Ground,Drama,1997,10,76
+1442,Prefontaine,Drama,1996,10,71
+1466,Donnie Brasco,Crime|Drama,1997,10,54
+1476,Private Parts,Comedy|Drama,1996,10,59
+1500,Grosse Pointe Blank,Comedy|Crime|Romance,1996,10,82
+1556,Speed 2: Cruise Control,Action|Romance|Thriller,1996,10,71
+1584,Contact,Drama|Sci-Fi,1997,10,52
+1621,Soul Food,Drama,1997,10,57
+1625,"Game, The",Drama|Mystery|Thriller,1997,10,70
+1640,How to Be a Player,Comedy,1997,10,94
+1644,I Know What You Did Last Summer,Horror|Mystery|Thriller,1996,10,51
+1648,"House of Yes, The",Comedy|Drama,1997,10,65
+1668,One Night Stand,Drama,1997,10,78
+1670,Welcome to Sarajevo,Drama|War,1997,10,90
+1672,"Rainmaker, The",Drama,1997,10,94
+1676,Starship Troopers,Action|Sci-Fi,1996,10,88
+1687,"Jackal, The",Action|Thriller,1996,10,63
+1717,Scream 2,Comedy|Horror|Mystery|Thriller,1997,10,90
+1846,Nil By Mouth,Drama,1996,10,62
+1848,"Borrowers, The",Adventure|Children|Comedy|Fantasy,1996,10,86
+1859,Taste of Cherry (Ta'm e guilass),Drama,1997,10,83
+1865,Wild Man Blues,Documentary,1997,10,78
+1900,"Children of Heaven, The (Bacheha-Ye Aseman)",Comedy|Drama,1996,10,55
+2008,"This World, Then the Fireworks",Crime|Drama|Film-Noir,1997,10,92
+2594,Open Your Eyes (Abre los ojos),Drama|Romance|Sci-Fi|Thriller,1997,10,78
+2693,Trekkies,Documentary,1997,10,58
+2776,"Marcello Mastroianni: I Remember Yes, I Remember (Marcello Mastroianni: mi ricordo, sì, io mi ricordo)",Documentary,1996,10,55
+3518,"End of Violence, The",Drama|Thriller,1996,10,89
+27156,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)",Action|Animation|Drama|Fantasy|Sci-Fi,1996,10,68
+1791,Twilight,Crime|Drama|Thriller,1998,10,93
+1821,"Object of My Affection, The",Comedy|Romance,1997,10,68
+1876,Deep Impact,Drama|Sci-Fi|Thriller,1997,10,89
+1911,Dr. Dolittle,Comedy,1997,10,53
+1914,Smoke Signals,Comedy|Drama,1997,10,82
+1916,Buffalo '66 (a.k.a. Buffalo 66),Drama|Romance,1997,10,55
+2027,Jane Austen's Mafia!,Comedy|Crime,1998,10,52
+2334,"Siege, The",Action|Thriller,1998,10,77
+2356,Celebrity,Comedy,1998,10,92
+2431,Patch Adams,Comedy|Drama,1998,10,63
+2590,Hideous Kinky,Drama,1998,10,95
+2691,"Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano)",Drama,1998,10,79
+2708,"Autumn Tale, An (Conte d'automne)",Romance,1998,10,76
+3609,Regret to Inform,Documentary,1997,10,73
+3839,Phantasm IV: Oblivion,Horror,1997,10,58
+7034,Show Me Love (Fucking Åmål),Drama|Romance,1997,10,67
+7649,Babylon 5: In the Beginning,Adventure|Sci-Fi,1997,10,82
+8157,Jin Roh: The Wolf Brigade (Jin-Rô),Animation|Fantasy|Thriller,1997,10,78
+2504,200 Cigarettes,Comedy|Drama,1999,10,83
+2559,"King and I, The",Animation|Children,1999,10,85
+2587,Life,Comedy|Crime|Drama,1998,10,91
+2598,Pushing Tin,Comedy,1999,10,57
+2611,"Winslow Boy, The",Drama,1999,10,58
+2720,Inspector Gadget,Action|Adventure|Children|Comedy,1998,10,92
+2882,Jakob the Liar,Drama,1999,10,81
+2891,"Happy, Texas",Comedy,1998,10,83
+2977,Crazy in Alabama,Comedy|Drama,1999,10,65
+2997,Being John Malkovich,Comedy|Drama|Fantasy,1999,10,73
+3004,"Bachelor, The",Comedy|Romance,1999,10,96
+3006,"Insider, The",Drama|Thriller,1998,10,96
+3117,Ride with the Devil,Drama|Romance|War,1998,10,58
+3180,Play it to the Bone,Comedy|Drama,1998,10,53
+3456,"Color of Paradise, The (Rang-e khoda)",Drama,1999,10,79
+3800,Criminal Lovers,Crime|Drama|Romance|Thriller,1998,10,68
+3822,"Girl on the Bridge, The (Fille sur le pont, La)",Drama|Romance,1999,10,61
+3864,Godzilla 2000 (Gojira ni-sen mireniamu),Action|Adventure|Sci-Fi,1998,10,93
+4076,Two Ninas,Comedy|Romance,1999,10,83
+6243,Ringu 2 (Ring 2),Horror|Mystery,1998,10,88
+8117,In China They Eat Dogs (I Kina spiser de hunde),Action|Comedy,1998,10,97
+8142,Dead or Alive: Hanzaisha,Action|Crime,1998,10,98
+70418,Introducing Dorothy Dandridge,Drama|Musical|Romance,1998,10,52
+3225,Down to You,Comedy|Romance,2000,10,85
+3300,Pitch Black,Horror|Sci-Fi|Thriller,1999,10,80
+3453,Here on Earth,Drama|Romance,1999,10,100
+3539,"Filth and the Fury, The",Documentary,2000,10,92
+3579,I Dreamed of Africa,Drama,1999,10,69
+3624,Shanghai Noon,Action|Adventure|Comedy|Western,1999,10,69
+3825,Coyote Ugly,Comedy|Drama|Romance,2000,10,78
+3861,"Replacements, The",Comedy,1999,10,85
+3865,"Original Kings of Comedy, The",Comedy|Documentary,1999,10,78
+3890,Back Stage,Documentary,2000,10,69
+3892,Anatomy (Anatomie),Horror,2000,10,84
+3896,"Way of the Gun, The",Crime|Thriller,1999,10,90
+3914,"Broken Hearts Club, The",Drama,2000,10,56
+3945,Digimon: The Movie,Adventure|Animation|Children,1999,10,76
+3973,Book of Shadows: Blair Witch 2,Crime|Horror|Mystery|Thriller,1999,10,100
+4011,Snatch,Comedy|Crime|Thriller,1999,10,85
+4016,"Emperor's New Groove, The",Adventure|Animation|Children|Comedy|Fantasy,2000,10,90
+4018,What Women Want,Comedy|Romance,2000,10,54
+4022,Cast Away,Drama,1999,10,72
+4156,Company Man,Comedy,2000,10,64
+6300,Flickering Lights (Blinkende lygter),Action|Comedy|Crime,1999,10,86
+7282,"Hip Hop Witch, Da",Comedy|Horror|Thriller,1999,10,65
+7541,100 Girls,Comedy|Romance,1999,10,52
+27441,Blood: The Last Vampire,Action|Animation|Horror,2000,10,58
+66544,Nuremberg,Drama|War,2000,10,78
+70488,Wings of Hope (Julianes Sturz in den Dschungel),Adventure|Documentary,2000,10,72
+4149,Saving Silverman (Evil Woman),Comedy|Romance,2001,10,90
+4162,See Spot Run,Comedy,2000,10,83
+4168,Get Over It,Comedy|Romance,2000,10,83
+4246,Bridget Jones's Diary,Comedy|Drama|Romance,2001,10,71
+4304,Startup.com,Documentary,2000,10,95
+4344,Swordfish,Action|Crime|Drama,2001,10,84
+4345,"Anniversary Party, The",Drama,2000,10,70
+4451,Jump Tomorrow,Comedy|Drama|Romance,2000,10,78
+4452,Made,Comedy,2000,10,78
+4639,America's Sweethearts,Comedy|Romance,2000,10,57
+4725,Session 9,Horror|Thriller,2001,10,79
+4735,Ghosts of Mars,Horror|Sci-Fi|Thriller,2000,10,66
+4745,O,Drama,2001,10,80
+4818,Extreme Days,Action|Adventure|Comedy|Drama,2001,10,54
+4875,On the Line,Comedy|Romance,2000,10,52
+4977,Kandahar (Safar e Ghandehar),Drama,2001,10,59
+5013,Gosford Park,Comedy|Drama|Mystery,2001,10,68
+5014,I Am Sam,Drama,2001,10,90
+5223,Pauline & Paulette (Pauline en Paulette),Comedy|Drama,2001,10,69
+5391,Thirteen Conversations About One Thing (a.k.a. 13 Conversations),Drama,2001,10,96
+5535,How I Killed My Father (a.k.a. My Father and I) (Comment j'ai tué mon Père),Drama,2001,10,82
+5575,Alias Betty (Betty Fisher et autres histoires),Crime|Drama,2001,10,50
+5682,"Grey Zone, The",Drama,2001,10,51
+6690,Don't Tempt Me (Sin noticias de Dios),Comedy|Fantasy|Mystery,2001,10,91
+7235,Ichi the Killer (Koroshiya 1),Action|Comedy|Crime|Drama|Horror|Thriller,2001,10,95
+7846,Tremors 3: Back to Perfection,Comedy|Horror|Sci-Fi,2000,10,77
+27338,The Hole,Drama|Horror|Mystery|Thriller,2000,10,76
+40817,Dinner with Friends,Comedy|Drama,2000,10,74
+5066,"Walk to Remember, A",Drama|Romance,2001,10,56
+5092,Big Fat Liar,Children|Comedy,2002,10,68
+5254,Blade II,Action|Horror|Thriller,2001,10,86
+5266,Panic Room,Thriller,2001,10,50
+5313,The Scorpion King,Action|Adventure|Fantasy|Thriller,2001,10,79
+5363,"New Guy, The",Comedy,2001,10,90
+5502,Signs,Horror|Sci-Fi|Thriller,2001,10,68
+5577,Igby Goes Down,Comedy|Drama,2001,10,83
+5792,Roger Dodger,Comedy|Drama,2002,10,93
+5803,I Spy,Action|Adventure|Comedy|Crime,2001,10,65
+5812,Far from Heaven,Drama|Romance,2001,10,80
+5833,Dog Soldiers,Action|Horror,2001,10,88
+5874,Friday After Next,Comedy,2001,10,72
+5880,Extreme Ops,Action|Adventure|Crime|Thriller,2001,10,89
+6163,He Loves Me... He Loves Me Not (À la folie... pas du tout),Romance|Thriller,2001,10,77
+6207,"Slaughter Rule, The",Drama,2002,10,72
+6757,Demonlover,Crime|Drama|Mystery|Thriller,2002,10,77
+7358,Searching for Debra Winger,Documentary,2002,10,75
+8790,Revengers Tragedy,Comedy|Horror,2002,10,57
+33296,Buying the Cow,Comedy|Romance,2002,10,54
+118468,Mei and the Kittenbus,Animation|Fantasy,2002,10,70
+6188,Old School,Comedy,2003,10,66
+6213,Tears of the Sun,Action|Drama|Thriller,2003,10,95
+6322,Confidence,Crime|Thriller,2002,10,67
+6373,Bruce Almighty,Comedy|Drama|Fantasy|Romance,2002,10,93
+6380,Capturing the Friedmans,Documentary,2003,10,94
+6503,Charlie's Angels: Full Throttle,Action|Adventure|Comedy|Crime|Thriller,2003,10,83
+6566,Spy Kids 3-D: Game Over,Action|Adventure|Children,2002,10,73
+6586,American Wedding (American Pie 3),Comedy,2002,10,93
+6872,"House of the Dead, The",Action|Horror,2003,10,83
+6879,Runaway Jury,Drama|Thriller,2003,10,76
+6884,Veronica Guerin,Crime|Drama|Thriller,2002,10,78
+6927,"Human Stain, The",Drama|Romance|Thriller,2002,10,72
+7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The",Documentary|War,2003,10,68
+7323,"Good bye, Lenin!",Comedy|Drama,2002,10,59
+7460,Coffee and Cigarettes,Comedy|Drama,2002,10,90
+8963,It's All About Love,Drama|Romance|Sci-Fi|Thriller,2002,10,72
+8982,I Am David,Drama,2003,10,61
+27674,11:14,Comedy|Crime|Drama|Mystery|Thriller,2003,10,67
+27816,Saints and Soldiers,Action|Adventure|Drama|War,2003,10,73
+27822,Open Water,Drama|Thriller,2002,10,78
+33358,Off the Map,Comedy|Drama,2003,10,92
+33558,"Snow Walker, The",Adventure|Drama,2003,10,92
+33683,High Tension (Haute tension) (Switchblade Romance),Horror|Thriller,2002,10,61
+7316,Confessions of a Teenage Drama Queen,Comedy,2004,10,58
+7376,Walking Tall,Action,2004,10,63
+7451,Mean Girls,Comedy,2003,10,73
+8366,Saved!,Comedy|Drama,2004,10,54
+8638,Before Sunset,Drama|Romance,2003,10,83
+8781,"Manchurian Candidate, The",Thriller,2003,10,70
+8799,Little Black Book,Comedy|Romance,2003,10,53
+8835,Paparazzi,Drama|Thriller,2004,10,78
+8860,Cellular,Action|Crime|Drama|Mystery|Thriller,2004,10,69
+8916,Shall We Dance?,Comedy|Romance,2003,10,85
+8918,Eulogy,Comedy|Crime|Drama,2003,10,53
+8958,Ray,Drama,2003,10,95
+8972,National Treasure,Action|Adventure|Drama|Mystery|Thriller,2003,10,59
+27875,Redemption: The Stan Tookie Williams Story,Crime|Documentary|Drama,2003,10,87
+27879,DiG!,Documentary,2004,10,68
+30707,Million Dollar Baby,Drama,2003,10,96
+31435,Rory O'Shea Was Here (Inside I'm Dancing),Drama,2004,10,80
+32291,Melinda and Melinda,Comedy|Drama,2004,10,63
+32591,Look at Me (Comme une image),Comedy|Drama|Romance,2003,10,97
+33138,Palindromes,Adventure|Comedy|Drama,2004,10,84
+33903,"Edukators, The (Die Fetten Jahre sind vorbei)",Comedy|Crime|Drama|Romance,2004,10,67
+79006,Empire of Dreams: The Story of the 'Star Wars' Trilogy,Documentary,2004,10,86
+31431,Boogeyman,Drama|Horror|Mystery|Thriller,2004,10,60
+31689,Inside Deep Throat,Documentary,2005,10,62
+32587,Sin City,Action|Crime|Film-Noir|Mystery|Thriller,2004,10,77
+32598,Fever Pitch,Comedy|Romance,2005,10,74
+33669,"Sisterhood of the Traveling Pants, The",Adventure|Comedy|Drama,2005,10,77
+33672,Lords of Dogtown,Action|Comedy|Drama,2005,10,59
+34048,War of the Worlds,Action|Adventure|Sci-Fi|Thriller,2005,10,67
+34321,Bad News Bears,Children|Comedy,2004,10,98
+34338,"Aristocrats, The",Comedy|Documentary,2005,10,92
+34437,Broken Flowers,Comedy|Drama,2005,10,99
+34528,Junebug,Comedy|Drama,2005,10,68
+34530,Deuce Bigalow: European Gigolo,Comedy,2005,10,67
+36276,Hidden (a.k.a. Cache) (Caché),Drama|Mystery|Thriller,2005,10,72
+36519,Transporter 2,Action|Crime|Thriller,2004,10,78
+36708,Family Guy Presents Stewie Griffin: The Untold Story,Adventure|Animation|Comedy,2004,10,74
+37240,Why We Fight,Documentary,2005,10,94
+37733,"History of Violence, A",Action|Crime|Drama|Thriller,2004,10,85
+39292,"Good Night, and Good Luck.",Crime|Drama,2005,10,83
+39715,American Pie Presents: Band Camp (American Pie 4: Band Camp),Comedy,2005,10,50
+40574,Get Rich or Die Tryin',Action|Crime|Drama,2004,10,99
+40815,Harry Potter and the Goblet of Fire,Adventure|Fantasy|Thriller|IMAX,2004,10,63
+41285,Match Point,Crime|Drama|Romance,2004,10,52
+42723,Hostel,Horror,2004,10,97
+42740,Looking for Comedy in the Muslim World,Comedy,2005,10,85
+45521,Wassup Rockers,Comedy|Drama,2005,10,86
+46772,Strangers with Candy,Comedy,2005,10,62
+47254,Chaos,Action|Crime|Drama|Thriller,2004,10,85
+48032,"Tiger and the Snow, The (La tigre e la neve)",Comedy|Drama|Romance|War,2005,10,83
+141124,FAQs,Drama,2004,10,83
+42738,Underworld: Evolution,Action|Fantasy|Horror,2005,10,69
+43910,Neil Young: Heart of Gold,Documentary|Musical,2005,10,83
+43919,Date Movie,Comedy|Romance,2005,10,54
+43930,Just My Luck,Comedy|Romance,2006,10,80
+43932,Pulse,Action|Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller,2005,10,71
+44191,V for Vendetta,Action|Sci-Fi|Thriller|IMAX,2005,10,70
+44613,Take the Lead,Drama,2005,10,98
+44828,Slither,Comedy|Horror|Sci-Fi,2006,10,75
+44840,"Benchwarmers, The",Comedy,2006,10,72
+45062,"Sentinel, The",Crime|Drama|Thriller,2005,10,94
+45208,RV,Adventure|Children|Comedy,2006,10,74
+45440,Art School Confidential,Comedy|Drama,2006,10,53
+45726,"You, Me and Dupree",Comedy,2005,10,62
+46976,Stranger than Fiction,Comedy|Drama|Fantasy|Romance,2005,10,61
+47640,Beerfest,Comedy,2006,10,61
+47810,"Wicker Man, The",Horror|Mystery|Thriller,2005,10,84
+47937,Severance,Comedy|Horror|Thriller,2006,10,73
+47952,"Covenant, The",Action|Horror|Thriller,2005,10,72
+48304,Apocalypto,Adventure|Drama|Thriller,2005,10,61
+48591,"Grudge 2, The",Drama|Horror|Mystery|Thriller,2006,10,97
+49526,National Lampoon's Van Wilder: The Rise of Taj,Comedy,2005,10,60
+49528,Turistas,Adventure|Drama|Horror|Mystery|Thriller,2005,10,96
+50005,Curse of the Golden Flower (Man cheng jin dai huang jin jia),Action|Drama,2006,10,90
+51304,Karla,Crime|Drama|Thriller,2006,10,74
+51709,"Host, The (Gwoemul)",Comedy|Drama|Horror|Sci-Fi|Thriller,2006,10,94
+51884,"Namesake, The",Drama|Romance,2005,10,56
+53318,Cashback,Comedy|Drama|Romance,2005,10,69
+53468,Fido,Comedy|Horror|Thriller,2006,10,54
+55156,"Unreasonable Man, An",Documentary,2006,10,68
+65310,Poultrygeist: Night of the Chicken Dead,Comedy|Horror|Musical,2005,10,97
+140755,Long-Term Relationship,Comedy|Romance,2005,10,89
+51080,Breach,Drama|Thriller,2007,10,91
+51931,Reign Over Me,Drama,2007,10,81
+52458,Disturbia,Drama|Thriller,2007,10,97
+52460,Pathfinder,Action|Adventure|Drama|Thriller|War,2007,10,62
+52668,In the Land of Women,Comedy|Drama|Romance,2006,10,76
+53189,Eagle vs Shark,Comedy,2006,10,59
+54256,Hot Rod,Comedy,2007,10,92
+54270,Skinwalkers,Horror|Thriller,2006,10,85
+54276,No Reservations,Comedy|Drama|Romance,2007,10,58
+54787,Death Sentence,Drama|Thriller,2006,10,73
+54995,Planet Terror,Action|Horror|Sci-Fi,2006,10,100
+55110,December Boys,Drama,2007,10,63
+55259,"Seeker: The Dark Is Rising, The",Action|Adventure|Drama|Fantasy,2006,10,70
+55294,Weirdsville,Comedy|Crime|Drama,2006,10,97
+55444,Control,Drama,2007,10,65
+55451,The Jane Austen Book Club,Comedy|Drama|Romance,2006,10,64
+55908,"Man from Earth, The",Drama|Sci-Fi,2007,10,98
+56079,Smiley Face,Comedy,2006,10,54
+56156,Hitman,Action|Crime|Thriller,2007,10,58
+56336,Wrong Turn 2: Dead End,Action|Horror|Thriller,2006,10,51
+57274,[REC],Drama|Horror|Thriller,2007,10,76
+57353,Flawless,Crime|Drama,2007,10,60
+59143,Super High Me,Comedy|Documentary,2007,10,54
+59721,"Grand, The",Comedy,2007,10,52
+59985,Chaos Theory,Comedy|Drama|Romance,2007,10,88
+60128,Young People Fucking (a.k.a. YPF),Comedy,2007,10,99
+60857,"Tracey Fragments, The",Drama,2006,10,98
+71318,Terra (a.k.a. Battle for Terra),Adventure|Animation|Sci-Fi,2007,10,51
+74740,Fermat's Room (La habitación de Fermat),Mystery|Thriller,2007,10,94
+158314,Daniel Tosh: Completely Serious,Comedy,2007,10,67
+55830,Be Kind Rewind,Comedy,2007,10,84
+57640,Hellboy II: The Golden Army,Action|Adventure|Fantasy|Sci-Fi,2007,10,77
+58025,Jumper,Action|Adventure|Drama|Sci-Fi|Thriller,2008,10,89
+58103,Vantage Point,Action|Drama|Thriller,2007,10,99
+58432,What Just Happened,Comedy|Drama,2007,10,52
+59126,Religulous,Comedy|Documentary,2008,10,61
+59725,Sex and the City,Comedy|Romance,2008,10,60
+60126,Get Smart,Action|Comedy,2008,10,92
+61240,Let the Right One In (Låt den rätte komma in),Drama|Fantasy|Horror|Romance,2007,10,64
+61348,Disaster Movie,Comedy,2008,10,68
+61350,Babylon A.D.,Action|Adventure|Sci-Fi|Thriller,2008,10,98
+61357,Trouble the Water,Documentary,2008,10,96
+62394,Max Payne,Action|Crime|Drama|Thriller,2008,10,53
+63992,Twilight,Drama|Fantasy|Romance|Thriller,2007,10,62
+65465,Last Chance Harvey,Drama|Romance,2008,10,56
+67252,Ong-Bak 2: The Beginning (Ong Bak 2),Action,2007,10,96
+67429,Sita Sings the Blues,Animation|Musical,2007,10,82
+71640,Burma VJ: Reporting from a Closed Country (Burma VJ: Reporter i et lukket land),Documentary,2007,10,92
+74327,"First Day of the Rest of Your Life, The (Le premier jour du reste de ta vie)",Comedy|Drama,2008,10,83
+66198,"International, The",Drama|Thriller,2008,10,95
+67695,Observe and Report,Action|Comedy,2009,10,55
+67997,In the Loop,Comedy,2008,10,77
+68269,"Young Victoria, The",Drama|Romance,2008,10,90
+68319,X-Men Origins: Wolverine,Action|Sci-Fi|Thriller,2008,10,90
+68324,"Girlfriend Experience, The",Drama,2008,10,96
+69069,Fired Up,Comedy,2009,10,51
+69275,Dead Snow (Død snø),Action|Adventure|Comedy|Horror,2008,10,55
+69516,"Limits of Control, The",Crime|Drama|Film-Noir,2008,10,73
+69712,My Sister's Keeper,Drama,2008,10,63
+69844,Harry Potter and the Half-Blood Prince,Adventure|Fantasy|Mystery|Romance|IMAX,2008,10,95
+70183,"Ugly Truth, The",Comedy|Drama|Romance,2009,10,92
+70663,"I Love You, Beth Cooper",Comedy|Romance,2008,10,78
+70898,Post Grad,Comedy,2008,10,95
+70994,Halloween II,Horror|Thriller,2009,10,91
+71205,Jennifer's Body,Comedy|Horror|Sci-Fi|Thriller,2009,10,58
+71211,"Informant!, The",Comedy|Crime|Drama|Thriller,2008,10,70
+71248,Extract,Comedy,2008,10,79
+71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The)",Horror|Thriller,2009,10,60
+72011,Up in the Air,Drama|Romance,2009,10,97
+72405,Bad Lieutenant: Port of Call New Orleans,Crime|Drama,2008,10,85
+72694,Shrink,Drama,2009,10,80
+72737,"Princess and the Frog, The",Animation|Children|Fantasy|Musical|Romance,2009,10,82
+73168,Carriers,Drama|Horror|Thriller,2008,10,70
+74275,I Love You Phillip Morris,Comedy|Drama|Romance,2008,10,68
+74416,Fish Tank,Drama,2009,10,50
+76060,"Slammin' Salmon, The",Comedy,2008,10,79
+77907,"Red Chapel, The (Røde kapel, Det)",Comedy|Documentary,2009,10,65
+79686,All Tomorrow's Parties,Documentary|Musical,2009,10,54
+73319,Leap Year,Comedy|Romance,2009,10,79
+74532,Cop Out,Action|Comedy|Crime,2010,10,50
+75985,Repo Men,Action|Sci-Fi|Thriller,2009,10,88
+77421,Cyrus,Comedy|Drama|Romance,2009,10,78
+78264,"Back-up Plan, The",Comedy|Romance,2010,10,50
+78499,Toy Story 3,Adventure|Animation|Children|Comedy|Fantasy|IMAX,2010,10,81
+79057,Predators,Action|Sci-Fi|Thriller,2009,10,92
+79695,"Expendables, The",Action|Adventure|Thriller,2009,10,88
+81191,Waiting for 'Superman',Documentary,2009,10,75
+81417,Paranormal Activity 2,Horror|IMAX,2009,10,89
+81831,"First Beautiful Thing, The (La prima cosa bella)",Comedy|Drama,2009,10,59
+82093,London Boulevard,Crime|Romance,2009,10,65
+83086,Burlesque,Drama|Musical|Romance,2009,10,96
+83332,Who Is Harry Nilsson (And Why Is Everybody Talkin' About Him?),Documentary,2010,10,75
+83827,Marwencol,Documentary,2010,10,67
+85412,"Troll Hunter, The (Trolljegeren)",Fantasy|Horror,2009,10,85
+89000,Carancho,Crime|Drama|Romance,2010,10,83
+91505,Clone (Womb),Drama|Romance|Sci-Fi,2009,10,76
+92210,"Disappearance of Haruhi Suzumiya, The (Suzumiya Haruhi no shôshitsu)",Adventure|Animation|Drama|Mystery|Sci-Fi,2009,10,92
+98908,How to Make Love to a Woman,Comedy|Romance,2010,10,88
+108447,Atrocious,Horror|Thriller,2009,10,99
+138696,Hands in the Air,Comedy|Drama|Romance,2009,10,78
+83613,Cowboys & Aliens,Action|Sci-Fi|Thriller|Western|IMAX,2011,10,52
+84392,"Lincoln Lawyer, The",Crime|Drama|Thriller,2010,10,75
+85213,"Sunset Limited, The",Drama,2010,10,55
+85397,Red Riding Hood,Fantasy|Horror|Mystery|Thriller,2011,10,65
+85438,Jane Eyre,Drama|Romance,2010,10,65
+86835,Priest,Action|Horror|Sci-Fi|Thriller,2010,10,82
+87222,Kung Fu Panda 2,Action|Adventure|Animation|Children|Comedy|IMAX,2011,10,58
+87306,Super 8,Mystery|Sci-Fi|Thriller|IMAX,2011,10,70
+88356,"Smurfs, The",Animation|Children|Comedy,2010,10,50
+89343,Red State,Action|Crime|Horror|Thriller,2011,10,98
+89759,"Separation, A (Jodaeiye Nader az Simin)",Drama,2011,10,73
+89804,"Ides of March, The",Drama,2011,10,71
+89864,50/50,Comedy|Drama,2011,10,89
+90266,Buck,Documentary,2010,10,92
+90343,Footloose,Comedy|Drama|Musical,2011,10,76
+90403,"Three Musketeers, The",Action|Adventure,2010,10,59
+91414,Arthur Christmas,Animation|Children|Comedy|Drama,2010,10,72
+93700,Corman's World: Exploits of a Hollywood Rebel,Documentary,2010,10,51
+93838,The Raid: Redemption,Action|Crime,2010,10,52
+95761,Killer Joe,Crime|Thriller,2011,10,65
+97744,"Ambassador, The (Ambassadøren)",Documentary,2010,10,79
+104597,"Chicago 8, The",Drama,2010,10,83
+92264,One for the Money,Action|Comedy|Crime,2011,10,95
+92507,Safe House,Action|Crime|Mystery|Thriller,2011,10,63
+93270,Project X,Comedy,2012,10,80
+93272,Dr. Seuss' The Lorax,Animation|Fantasy|Musical|IMAX,2011,10,73
+93498,Game Change,Drama,2011,10,77
+93510,21 Jump Street,Action|Comedy|Crime,2012,10,82
+93512,"Jeff, Who Lives at Home",Comedy|Drama,2012,10,97
+94777,Men in Black III (M.III.B.) (M.I.B.³),Action|Comedy|Sci-Fi|IMAX,2011,10,85
+95875,Total Recall,Action|Sci-Fi|Thriller,2012,10,60
+96590,"Cold Light of Day, The",Action|Thriller,2012,10,71
+96726,Lola Versus,Comedy|Romance,2011,10,73
+97639,How to Survive a Plague,Documentary,2012,10,96
+98587,Caesar Must Die (Cesare deve morire),Drama,2012,10,97
+99030,Wrong,Comedy|Drama,2011,10,99
+99114,Django Unchained,Action|Drama|Western,2012,10,78
+99117,This Is 40,Drama,2011,10,50
+100304,"Liability, The",Action|Thriller,2011,10,72
+101962,Wolf Children (Okami kodomo no ame to yuki),Animation|Fantasy,2012,10,57
+102800,Frances Ha,Comedy|Drama,2011,10,54
+103279,What Maisie Knew,Drama,2011,10,95
+99912,Mama,Horror,2012,10,84
+100498,"Good Day to Die Hard, A",Action|Crime|Thriller|IMAX,2012,10,60
+102125,Iron Man 3,Action|Sci-Fi|Thriller|IMAX,2013,10,87
+102819,Behind the Candelabra,Drama,2013,10,56
+102903,Now You See Me,Crime|Mystery|Thriller,2012,10,80
+103137,"Bling Ring, The",Crime|Drama,2012,10,62
+103335,Despicable Me 2,Animation|Children|Comedy|IMAX,2012,10,100
+103539,The Spectacular Now,Comedy|Drama|Romance,2013,10,59
+104069,Louis C.K.: Oh My God,Comedy,2012,10,81
+104241,Kick-Ass 2,Action|Comedy|Crime,2013,10,76
+104944,Short Term 12,Drama,2013,10,96
+105211,Enough Said,Comedy|Drama|Romance,2012,10,85
+105593,Filth,Comedy|Crime|Drama,2012,10,67
+105769,"Congress, The",Animation|Sci-Fi,2013,10,99
+105954,All Is Lost,Action|Adventure|Drama,2013,10,95
+106002,Ender's Game,Action|Adventure|Sci-Fi|IMAX,2013,10,86
+106011,"Blue Umbrella, The",Animation,2013,10,94
+106438,Philomena,Comedy|Drama,2012,10,71
+106452,Ida,Drama,2013,10,81
+108076,"Other Shore, The",Adventure|Documentary,2012,10,64
+108601,Drift,Drama,2012,10,90
+110461,We Are the Best! (Vi är bäst!),Children|Comedy|Drama,2012,10,70
+111228,"Fragile Trust: Plagiarism, Power, and Jayson Blair at the New York Times, A",Documentary,2012,10,86
+111249,Belle,Drama,2012,10,91
+111251,"Immigrant, The",Drama|Romance,2012,10,50
+112399,Finding Vivian Maier,Documentary,2013,10,98
+113220,"Dog, The",Documentary,2012,10,82
+116207,Zulu,Crime|Drama|Thriller,2013,10,62
+108689,"I, Frankenstein",Action|Fantasy|Sci-Fi|IMAX,2013,10,50
+110553,The Amazing Spider-Man 2,Action|Sci-Fi|IMAX,2014,10,71
+111659,Maleficent,Action|Adventure|Children|IMAX,2013,10,59
+112749,And So It Goes,Comedy|Drama|Romance,2014,10,94
+112852,Guardians of the Galaxy,Action|Adventure|Sci-Fi,2013,10,89
+113252,Housebound,Comedy|Horror|Thriller,2013,10,75
+115151,Plastic,Action|Crime,2013,10,100
+115569,Nightcrawler,Crime|Drama|Thriller,2014,10,76
+116855,The Way He Looks,Drama|Romance,2013,10,85
+117444,Song of the Sea,Animation|Children|Fantasy,2014,10,84
+118105,Trailer Park Boys: Live at the North Pole,Comedy,2013,10,58
+118354,Kill the Messenger,Crime|Drama|Mystery|Thriller,2013,10,81
+118702,Unbroken,Drama|War,2013,10,69
+118814,Playing It Cool,Comedy|Romance,2014,10,100
+130642,Backcountry,Drama|Horror|Thriller,2013,10,58
+132074,No No: A Dockumentary,Documentary,2014,10,80
+134881,Love & Mercy,Drama,2013,10,82
+138546,The Opposite Sex,Comedy,2014,10,93
+128620,Victoria,(no genres listed),2015,10,92
+129937,Run All Night,Action|Crime|Drama|Thriller,2014,10,77
+132547,A Girl Like Her,Drama,2014,10,78
+132796,San Andreas,Action|Drama|Thriller,2015,10,72
+133377,Infini,Horror|Sci-Fi|Thriller,2014,10,82
+133645,Carol,Drama|Romance,2015,10,72
+133824,The Human Centipede III (Final Sequence),Horror,2015,10,90
+135887,Minions,Adventure|Animation|Children|Comedy,2015,10,75
+139757,Best of Enemies,Documentary,2014,10,83
+140152,Dreamcatcher,Children|Crime|Documentary,2014,10,66
+141668,War Room,Drama,2014,10,96
+141718,Deathgasm,Comedy|Horror,2015,10,88
+141749,The Danish Girl,Drama,2014,10,94
+142258,Listen to Me Marlon,Documentary,2014,10,80
+144976,Bone Tomahawk,Horror|Western,2014,10,83
+122924,X-Men: Apocalypse,Action|Adventure|Fantasy|Sci-Fi,2015,10,76
+135567,Independence Day: Resurgence,Action|Adventure|Sci-Fi,2016,10,62
+152079,London Has Fallen,Action|Crime|Thriller,2015,10,60
+152091,The Brothers Grimsby,Comedy,2016,10,87
+156387,Sing Street,Drama,2015,10,66
+159972,Approaching the Unknown,Drama|Sci-Fi|Thriller,2016,10,52
+161582,Hell or High Water,Crime|Drama,2016,10,84
+161918,Sharknado 4: The 4th Awakens,Action|Adventure|Horror|Sci-Fi,2016,10,51
